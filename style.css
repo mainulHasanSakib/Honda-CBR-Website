@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    position: relative;
+}
+.hdrBg{
+    background-color: #264653;;
+}
+.cstmClr{
+    background-color: #E76F51;
+
+}
+.grayimg{
+    filter: grayscale(100%);
+    cursor: pointer;
+}
+.grayimg:hover{
+    filter:grayscale(0%); 
+    transition:2s;
+
+}
+.cstmtxtClr{
+    color: #E76F51;
+
+}
+.clientnm{
+    color: #0dcaf0;
+}
+.lgBtn:hover{
+    background-color: #E76F51;;
+}
